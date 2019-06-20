@@ -103,3 +103,102 @@
     border: 4px solid #fae314f3;;
 }
 
+#Nosotros{
+   position: absolute;
+   z-index: 2;
+   margin-top: 750px;
+
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Segoe UI';
+    font-size: 36px;
+    font-weight: 750;
+    color: #5f5f5f;
+}
+
+#secundarioNostros{
+    color: #636363;
+    margin-top: 50px;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+#porcentajes{
+    margin-top: 60px;
+    text-align: center;
+}
+
+#Proyectos {
+    position: absolute;
+    z-index: 2;
+    margin-top: 1200px;
+}
+
+#imgProyectos  {
+    text-align: center;
+}
+
+#imgProyectos img {
+    margin-top: 80px;
+    width: 24%;
+    height: 235px;
+}
+
+#Proyectos h3 {
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    font-weight: 500;
+    color: #5f5f5f;
+}
+
+#Testimonios{
+    position: absolute;
+    z-index: 3;
+    margin-top: 1700px;
+    width: 100%;
+}
+
+#imgTestimonio{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+}
+
+#containerTesti{
+    position: absolute;
+    z-index: 2;
+}
+
+#containerTesti{ 
+    text-align: center;
+}
+
+#man{
+    width: 100px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+#containerTesti .secundario{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom:40px; 
+    background-color: #cecece4f;
+    padding: 10px;
+}
+
+h4{
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    color: white;
+    font-weight: 700;
+}
+
